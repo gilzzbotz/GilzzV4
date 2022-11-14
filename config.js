@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6287873670287','62895410602977']
-global.ownernomer = "6287873670287"
-global.premium = ['6287873670287','6285787712815']
-global.packname = 'MFBot'
-global.author = 'OwnerMFBot'
+global.owner = ['6285730794089','6285730794089']
+global.ownernomer = "6285730794089"
+global.premium = ['6285730794089','6285730794089']
+global.packname = 'Bot Whatsapp'
+global.author = '𝐆𝐈𝐋𝐙𝐙 𝐁𝐎𝐓𝐙 𝐕𝟒'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.prefa = ['','!','.','#','&']
 global.sp = ''
